@@ -1,0 +1,14 @@
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\bin\Debug\net8.0\Tarea1(POO).exe
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\bin\Debug\net8.0\Tarea1(POO).deps.json
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\bin\Debug\net8.0\Tarea1(POO).runtimeconfig.json
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\bin\Debug\net8.0\Tarea1(POO).dll
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\bin\Debug\net8.0\Tarea1(POO).pdb
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\Tarea1(POO).GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\Tarea1(POO).AssemblyInfoInputs.cache
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\Tarea1(POO).AssemblyInfo.cs
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\Tarea1(POO).csproj.CoreCompileInputs.cache
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\Tarea1(POO).dll
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\refint\Tarea1(POO).dll
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\Tarea1(POO).pdb
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\Tarea1(POO).genruntimeconfig.cache
+D:\Ciclo III\Programación Orientada a Objetos(POO)\Tarea1(POO)Demo\Tarea1(POO)\obj\Debug\net8.0\ref\Tarea1(POO).dll
